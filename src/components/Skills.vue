@@ -40,7 +40,8 @@
         remove(id) {
           this.skills.splice(id,1);
         }
-      }
+      },
+      
     };
     </script>
 
